@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPxgDU238hE=",
+  "success": true,
+  "projectFilePath": "C:\\UVG\\2025\\Ciclo2\\TeoriaComputacion\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugod\\.nuget\\packages\\microsoft.msagl\\1.1.6\\microsoft.msagl.1.1.6.nupkg.sha512",
+    "C:\\Users\\hugod\\.nuget\\packages\\microsoft.msagl.drawing\\1.1.6\\microsoft.msagl.drawing.1.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
